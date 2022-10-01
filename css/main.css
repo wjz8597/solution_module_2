@@ -35,7 +35,7 @@ p {
 	border: 2px solid black;
 	background-color: azure;
 	float: left;
-	margin: 5% 2%;
+	margin: 5% 4.166%;
 	position: relative;
 	height: 30%;
 }
@@ -120,6 +120,7 @@ p {
   }
   .col-md-5 {
     width: 41.66%;
+    margin-left: 4.166%;
   }
   .col-md-6 {
     width: 50%;
